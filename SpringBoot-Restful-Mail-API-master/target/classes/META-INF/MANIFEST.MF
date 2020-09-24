@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: jsingh280
+Build-Jdk: 11.0.8
+Implementation-Title: MailApi
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.mail
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/MailApi/
+Created-By: Maven Integration for Eclipse
+
